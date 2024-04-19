@@ -240,5 +240,31 @@
         "count": 145
       }
     }
+  ],
+  "users": [
+    {
+      "name": "marwanfarook-90",
+      "email": "marwanfarook@gmail.com",
+      "password": "2282004",
+      "gender": "Male",
+      "member": "A",
+      "id": 1
+    },
+    {
+      "name": "Mohamed",
+      "email": "farook91@gmail.com",
+      "password": "444444",
+      "gender": "Male",
+      "member": "M",
+      "id": 2
+    },
+    {
+      "name": "maro",
+      "email": "marwan@gmail.org",
+      "password": "marwan222",
+      "gender": "Male",
+      "member": "M",
+      "id": 3
+    }
   ]
 }
